@@ -12,7 +12,7 @@ header {
 
 main {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   justify-content: center;
   align-items: center;
   background-color: #92C9D5;
@@ -44,3 +44,4 @@ footer {
   flex-basis: 100px;
   flex-grow: 1;
 }
+
